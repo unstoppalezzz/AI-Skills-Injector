@@ -1,12 +1,12 @@
-# AI Skills Injector 🚀
+# AI Skills Injector 
 
 **AI Skills Injector** is a powerful, lightweight userscript designed to streamline your interactions across multiple AI platforms including ChatGPT, Google Gemini, and Duck.ai. 
 
-Stop copy-pasting your frequent system instructions. This tool lets you build a "Skill Library" that you can inject into any conversation with a single click, automatically formatting your input for the best results.
+Stop copy-pasting your frequent system instructions. This tool lets you build a "Skill Library" that you can inject into any conversation with a single click.
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Multi-Platform:** Fully compatible with ChatGPT, Gemini, and Duck.ai.
 * **Draggable Widget:** Click and hold the header to move the skill panel anywhere on your screen.
@@ -18,7 +18,7 @@ Stop copy-pasting your frequent system instructions. This tool lets you build a 
 
 ## 🛠️ Installation
 
-The easiest way to install is via a userscript manager like **[Tampermonkey](https://www.tampermonkey.net/)**.
+**[Tampermonkey](https://www.tampermonkey.net/)**.
 
 1.  **Install Tampermonkey** for your preferred browser.
 2.  **One-Click Install:** Click the badge below to open the installation page:
@@ -42,7 +42,7 @@ When injected, the AI will receive the Markdown exactly as written, ensuring you
 
 ---
 
-## 📂 Portability: Import & Export
+##  Import & Export
 
 Managing your prompt library is simple and flexible:
 
@@ -53,7 +53,7 @@ Managing your prompt library is simple and flexible:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1.  **Add a Skill:** Click any skill button in the panel. It will turn **blue** to indicate it is active.
 2.  **Type Your Message:** Write your prompt or paste your data into the chat box as usual.
@@ -62,12 +62,12 @@ Managing your prompt library is simple and flexible:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! If you find a bug or have a feature request, feel free to open an issue or submit a pull request.
 
 ---
 
-## 📜 License
+##  License
 
 Distributed under the **Gpl-3.0 License**. See `LICENSE` for more information.
