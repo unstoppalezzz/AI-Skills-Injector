@@ -48,14 +48,14 @@ Managing your prompt library is simple and flexible:
 
 * **Export JSON:** Click the **Export JSON** button to download your entire library as a file. This is perfect for backing up your prompts or moving them to a different browser/computer.
 * **Import JSON:** Have a pre-made list? Use the **Import from JSON** option to load a `.json` file.
-* **From URL:** Point the injector to a raw JSON URL (like a GitHub Gist) to fetch and append skills remotely.
+* **From URL:** Point the injector to a raw JSON URL (for example, a GitHub Gist) to fetch and append skills remotely — note: the project's GitHub repository includes a skills folder with ready‑to‑use skill txt files.
 * **Paste:** Quickly add a new skill by pasting raw text or a JSON object directly.
 
 ---
 
 ##  How to Use
 
-1.  **Add a Skill:** Click any skill button in the panel. It will turn **blue** to indicate it is active.
+1.  **Select a Skill:** Click any skill button in the panel. It will turn **blue** to indicate it is active.
 2.  **Type Your Message:** Write your prompt or paste your data into the chat box as usual.
 3.  **Send:** Hit "Enter" or click the send icon. The script will automatically prepend your skill instruction and wrap your message in quotes.
 4.  **Manage:** Click "Manage" to reorder skills or delete ones you no longer need.
