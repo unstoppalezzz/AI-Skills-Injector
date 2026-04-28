@@ -28,16 +28,3 @@
 
 6. Do not include anything other than the required output format above.
 
----
-
-## User message template (use this when sending the source to the AI)
-- If you are passing a URL and your runtime can fetch it: provide the URL only.
-- If your runtime cannot fetch URLs: fetch and extract readable text, then pass the extracted text with the Source line as shown below.
-
-When sending extracted text to the AI, paste the full text, then append the Source line exactly as shown:
-
-{paste the extracted or original text here}
-
---END OF SOURCE--
-Source: {URL or "pasted text"}
-
