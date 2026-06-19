@@ -67,7 +67,9 @@ Managing your prompt library is simple and flexible:
 Contributions are welcome! If you find a bug or have a feature request, feel free to open an issue or submit a pull request.
 
 ---
-
+## To do
+- adding the use of scripts with the skills
+---    
 ##  License
 
 Distributed under the **Gpl-3.0 License**. See `LICENSE` for more information.
