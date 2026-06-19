@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name         ChatGPT/Gemini/Duck.ai Skills Injector
+// @name         AI Skill Injector
 // @namespace    http://tampermonkey.net/
-// @version      1.7
+// @version      1.8
 // @description  Injects selected prompt skills into the request upon submission without breaking the UI.
 // @match        https://chat.openai.com/*
 // @match        https://chatgpt.com/*
 // @match        https://gemini.google.com/*
 // @match        https://duck.ai/*
+// @match        https://claude.ai/chat/*
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_xmlhttpRequest
