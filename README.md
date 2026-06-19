@@ -1,6 +1,6 @@
 # AI Skills Injector 
 
-**AI Skills Injector** is a powerful, lightweight userscript designed to streamline your interactions across multiple AI platforms including ChatGPT, Google Gemini, and Duck.ai. 
+**AI Skills Injector** is a powerful, lightweight userscript designed to streamline your interactions across multiple AI platforms including ChatGPT, Google Gemini, Claude, and Duck.ai. 
 
 Stop copy-pasting your frequent system instructions. This tool lets you build a "Skill Library" that you can inject into any conversation with a single click.
 
@@ -8,7 +8,7 @@ Stop copy-pasting your frequent system instructions. This tool lets you build a 
 
 ##  Features
 
-* **Multi-Platform:** Fully compatible with ChatGPT, Gemini, and Duck.ai.
+* **Multi-Platform:** Fully compatible with ChatGPT, Gemini, Claude, and Duck.ai.
 * **Draggable Widget:** Click and hold the header to move the skill panel anywhere on your screen.
 * **Markdown Support:** Skills fully support Markdown formatting for complex instructions.
 * **Drag-and-Drop Reordering:** Use "Manage" mode to reorder your skills via a simple drag handle.
